@@ -1,2 +1,13 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+  padding-top: 80px;
+  background: #e1e1e1;
+  color: #64103F;
+}
+
+// Form styling
+.page-heading, div > label {
+  color: #64103F;
+}
